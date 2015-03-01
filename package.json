@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "main": "./lib/calculator",
+  "version": "0.0.0",
+  "description": "Simple, chunky calculator widget for your editor. Comes in handy.",
+  "activationCommands": {
+    "atom-workspace": "calculator:toggle"
+  },
+  "repository": "https://github.com/gstack/calculator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
