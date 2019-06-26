@@ -3,13 +3,29 @@
   "main": "./lib/calculator",
   "version": "0.1.0",
   "description": "Simple, chunky calculator widget for your editor. Comes in handy.",
+  "homepage": "https://github.com/KeithETruesdell/calculator#readme",
+  "keywords": [
+    "calculator",
+    "math",
+    "addition",
+    "multiply",
+	"calculate"
+  ],
   "activationCommands": {
     "atom-workspace": "calculator:toggle"
   },
-  "repository": "https://github.com/gstack/calculator",
+  "repository": "https://github.com/KeithETruesdell/calculator",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": {
+    "name": "Keith E. Truesdell",
+    "email": "KeithETruesdell@gmail.com",
+    "url": "https://github.com/KeithETruesdell"
+  },
+  "bugs": {
+    "url": "https://github.com/KeithETruesdell/calculator/issues"
   },
   "dependencies": {}
 }
