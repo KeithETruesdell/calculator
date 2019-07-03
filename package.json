@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/KeithETruesdell/calculator/issues"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "desrializers": {
+    "calculator/CalculatorView": "deserializeCalculatorView"
+  }
 }
